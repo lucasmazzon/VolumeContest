@@ -20,11 +20,8 @@
 }
 
 body{
-<<<<<<< HEAD
   background-color: black;
   color: white;
-=======
->>>>>>> 86ed5d1faa66f7375286ad42afd128ebfa99fc9e
   font-family: "Jost", sans-serif;
   font-optical-sizing: auto;
   font-size: 17px;
@@ -88,7 +85,6 @@ html {
 
 /* fonts*/
 
-<<<<<<< HEAD
 .BtnShadow {
   box-shadow: 6px 3px 10px rgb(74, 74, 147),
   -7px -5px 10px rgb(59, 59, 61);
@@ -100,8 +96,6 @@ html {
 }
 
 
-
-=======
 .bg{
   background-image: url(./images/background_lockyfi.jpg);
   background-size: cover;
@@ -306,4 +300,3 @@ left: 50%;
   transform: translateY(0);
   opacity: 1;
 }
->>>>>>> 86ed5d1faa66f7375286ad42afd128ebfa99fc9e

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import logo from '../images/logo.png'
 import BgWallet from '../images/background_lockyfi.jpg'
 import logoIcon from '../images/logoIcon.png'
@@ -11,7 +11,6 @@ import bnbIcon from '../images/bnb.png'
 import polygonIcon from '../images/polygon.png'
 import keptSymbol from '../images/KEPTWALLET.png'
 
-=======
 import dropDownMenu from '../images/mainBG.jpg'
 import lockyToken from '../images/LockyToken.png'
 import lockyMarket from '../images/LockyMarket.png'
